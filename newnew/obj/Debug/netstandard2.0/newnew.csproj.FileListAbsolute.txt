@@ -1,0 +1,14 @@
+/Users/m/Projects/newnew/newnew/bin/Debug/netstandard2.0/newnew.deps.json
+/Users/m/Projects/newnew/newnew/bin/Debug/netstandard2.0/newnew.dll
+/Users/m/Projects/newnew/newnew/bin/Debug/netstandard2.0/ref/newnew.dll
+/Users/m/Projects/newnew/newnew/bin/Debug/netstandard2.0/newnew.pdb
+/Users/m/Projects/newnew/newnew/obj/Debug/netstandard2.0/newnew.csprojAssemblyReference.cache
+/Users/m/Projects/newnew/newnew/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/m/Projects/newnew/newnew/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/m/Projects/newnew/newnew/obj/Debug/netstandard2.0/newnew.AssemblyInfoInputs.cache
+/Users/m/Projects/newnew/newnew/obj/Debug/netstandard2.0/newnew.AssemblyInfo.cs
+/Users/m/Projects/newnew/newnew/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/m/Projects/newnew/newnew/obj/Debug/netstandard2.0/newnew.dll
+/Users/m/Projects/newnew/newnew/obj/Debug/netstandard2.0/ref/newnew.dll
+/Users/m/Projects/newnew/newnew/obj/Debug/netstandard2.0/newnew.pdb
+/Users/m/Projects/newnew/newnew/obj/Debug/netstandard2.0/login.xaml.g.cs

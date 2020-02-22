@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="newnew.MainPage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <Label
+            Grid.Row="1"
+            Grid.RowSpan="2"
+            Grid.Column="0"
+            Grid.ColumnSpan="4"
+            BackgroundColor="LightBlue"
+            Text="0" />
+
+
+        <!--  row 2  -->
+        <Label
+            Grid.Row="2"
+            Grid.Column="0"
+            BackgroundColor="Gray"
+            HorizontalTextAlignment="Center"
+            Text="+/-"
+            VerticalTextAlignment="Center" />
+        <Label
+            Grid.Row="2"
+            Grid.Column="1"
+            BackgroundColor="Gray"
+            HorizontalTextAlignment="Center"
+            Text="%"
+            VerticalTextAlignment="Center" />
+        <Label
+            Grid.Row="2"
+            Grid.Column="2"
+            BackgroundColor="Gray"
+            HorizontalTextAlignment="Center"
+            Text="3"
+            VerticalTextAlignment="Center" />
+        <Label
+            Grid.Row="2"
+            Grid.Column="3"
+            BackgroundColor="Orange"
+            HorizontalTextAlignment="Center"
+            Text="DIV"
+            VerticalTextAlignment="Center" />
+
+
+
+
+
+        <Label
+            Grid.Row="3"
+            Grid.Column="0"
+            BackgroundColor="Gray"
+            HorizontalTextAlignment="Center"
+            Text="1"
+            VerticalTextAlignment="Center" />
+        <Label
+            Grid.Row="3"
+            Grid.Column="1"
+            BackgroundColor="Gray"
+            HorizontalTextAlignment="Center"
+            Text="2"
+            VerticalTextAlignment="Center" />
+        <Label
+            Grid.Row="3"
+            Grid.Column="2"
+            BackgroundColor="Gray"
+            HorizontalTextAlignment="Center"
+            Text="3"
+            VerticalTextAlignment="Center" />
+        <Label
+            Grid.Row="3"
+            Grid.Column="3"
+            BackgroundColor="Orange"
+            HorizontalTextAlignment="Center"
+            Text="*"
+            VerticalTextAlignment="Center" />
+
+
+        <Label
+            Grid.Row="4"
+            Grid.Column="0"
+            BackgroundColor="Gray"
+            HorizontalTextAlignment="Center"
+            Text="4"
+            VerticalTextAlignment="Center" />
+        <Label
+            Grid.Row="4"
+            Grid.Column="1"
+            BackgroundColor="Gray"
+            HorizontalTextAlignment="Center"
+            Text="5"
+            VerticalTextAlignment="Center" />
+        <Label
+            Grid.Row="4"
+            Grid.Column="2"
+            BackgroundColor="Gray"
+            HorizontalTextAlignment="Center"
+            Text="6"
+            VerticalTextAlignment="Center" />
+        <Label
+            Grid.Row="4"
+            Grid.Column="3"
+            BackgroundColor="Orange"
+            HorizontalTextAlignment="Center"
+            Text="+"
+            VerticalTextAlignment="Center" />
+
+
+
+        <Label
+            Grid.Row="5"
+            Grid.Column="0"
+            BackgroundColor="Gray"
+            HorizontalTextAlignment="Center"
+            Text="7"
+            VerticalTextAlignment="Center" />
+        <Label
+            Grid.Row="5"
+            Grid.Column="1"
+            BackgroundColor="Gray"
+            HorizontalTextAlignment="Center"
+            Text="8"
+            VerticalTextAlignment="Center" />
+        <Label
+            Grid.Row="5"
+            Grid.Column="2"
+            BackgroundColor="Gray"
+            HorizontalTextAlignment="Center"
+            Text="9"
+            VerticalTextAlignment="Center" />
+        <Label
+            Grid.Row="5"
+            Grid.Column="3"
+            BackgroundColor="Orange"
+            HorizontalTextAlignment="Center"
+            Text="-"
+            VerticalTextAlignment="Center" />
+
+
+
+
+        <Label
+            Grid.Row="6"
+            Grid.Column="0"
+            Grid.ColumnSpan="2"
+            BackgroundColor="Gray"
+            HorizontalTextAlignment="Center"
+            Text="0"
+            VerticalTextAlignment="Center" />
+
+        <Label
+            Grid.Row="6"
+            Grid.Column="2"
+            BackgroundColor="Gray"
+            HorizontalTextAlignment="Center"
+            Text="."
+            VerticalTextAlignment="Center" />
+        <Label
+            Grid.Row="6"
+            Grid.Column="3"
+            BackgroundColor="Orange"
+            HorizontalTextAlignment="Center"
+            Text="="
+            VerticalTextAlignment="Center" />
+    </Grid>
+
+
+
+    <!--<ScrollView>
+        <StackLayout
+            HorizontalOptions="Center"
+            Orientation="Horizontal"
+            Spacing="20"
+            VerticalOptions="Center">
+              Place new controls here
+            <Label
+                FontAttributes="Bold"
+                Text="have nice day"
+                TextColor="Aqua" />
+            <Label
+                FontAttributes="Bold"
+                Text="hello"
+                TextColor="Bisque" />
+
+        </StackLayout>
+    </ScrollView>-->
+</ContentPage>

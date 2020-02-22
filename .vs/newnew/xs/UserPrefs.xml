@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{8F2CAE06-13B2-47C6-B519-3ABB40957805}|Default">
+  <MonoDevelop.Ide.ItemProperties.newnew.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.676B811B-9441-4715-BAA3-6108417DAE12" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="newnew/MainPage.xaml">
+    <Files>
+      <File FileName="newnew/MainPage.xaml" Line="15" Column="1" />
+      <File FileName="newnew/App.xaml" Line="1" Column="1" />
+      <File FileName="newnew/login.cs" Line="1" Column="1" />
+      <File FileName="newnew/login.xaml" Line="4" Column="83" />
+      <File FileName="newnew/login.xaml.cs" Line="1" Column="1" />
+      <File FileName="newnew/App.xaml.cs" Line="13" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="newnew" expanded="True">
+            <Node name="newnew" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="login.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.newnew.Android PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
